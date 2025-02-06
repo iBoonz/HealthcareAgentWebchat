@@ -5,7 +5,7 @@ function requestChatBot() {
     const params = new URLSearchParams(location.search);
     const oReq = new XMLHttpRequest();
     oReq.addEventListener("load", initBotConversation);
-    var path = "https://dragon-copilot-generator.azurewebsites.net/api/GenereratorFunction";
+    var path = "https://<your-function-app-name>.azurewebsites.net/api/GenereratorFunction";
     oReq.open("POST", path);
     oReq.send();
 }

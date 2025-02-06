@@ -2,7 +2,7 @@
 
 Click the button below to deploy this project to Azure:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/iBoonz/HealthcareAgentWebchat/main/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FiBoonz%2FHealthcareAgentWebchat%2Fmain%2Fazuredeploy.json)
 
 You will need to set the following parameters:
 - `storageAccountName`: Name of the storage account

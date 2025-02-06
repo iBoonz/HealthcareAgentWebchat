@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenGenerator", "TokenGenerator.csproj", "{12C35346-2605-45D5-9EC5-1991CB6CF7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C35346-2605-45D5-9EC5-1991CB6CF7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C35346-2605-45D5-9EC5-1991CB6CF7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C35346-2605-45D5-9EC5-1991CB6CF7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C35346-2605-45D5-9EC5-1991CB6CF7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655EA8F7-0D3A-4F4C-913E-F08F31B5D012}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background: url(background.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	overflow:hidden;
+    font-family: "Prompt","Calibri","Helvetica Neue","Arial",sans-serif;
+}
+
+
+#botContainer {
+  background: #ffffff;
+    height: 1100px;
+    width: 700px !important;
+    border: 2px solid rgb(11, 85, 106);
+    background-color: rgb(229,241,248);
+    bottom: 10px;
+    right: 10px;
+    font-size: 22px !important;
+    position: absolute;
+}
+
+.ac-textBlock {
+    font-size: 18px !important;
+    line-height: 23px !important;
+}
+
+
+.webchat__bubble__content {
+    border-radius: 10px !important;
+}
+
+.webchat__bubble{
+	max-width: 100% !important;
+}
